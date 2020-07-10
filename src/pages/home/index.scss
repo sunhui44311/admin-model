@@ -1,0 +1,6 @@
+@import "@/styles/variable.scss";
+#home {
+    padding: $page-padding;
+}
+
+#home /deep/ {}
